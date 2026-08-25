@@ -22,7 +22,7 @@ SECRET_KEY = 'django-insecure-dizir)w!(9!ie%ytfj@fnb!rav(3li&w7m1rayl+$)w6*cfd&y
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["const-d90p.onrender.com"]
 
 
 # ============================================================
